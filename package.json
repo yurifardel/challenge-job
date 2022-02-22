@@ -1,0 +1,16 @@
+{
+  "name": "teste-empresa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "nodemon src/index.js",
+    "challenge": "nodemon src/challenge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
